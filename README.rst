@@ -1,6 +1,6 @@
-pavics-sdi
+EP3 Data
 ==========
 
-Power Analytics and Visualization for Climate Science - Spatial Data Infrastructure
+Data, Analytics, and Visualization for Environemntal Economics - Spatial, Socio Economic Data Infrastructure
 
 Check out the `official documentation <https://ouranosinc.github.io/pavics-sdi/>`_.
